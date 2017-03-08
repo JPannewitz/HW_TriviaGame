@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+ul {
+    list-style: none;
+}
+li {
+    
+    font-size: 2em;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+}
+
+p {
+    
+}
+
+button {
+    text-align: center;
+    margin: auto;
+}
+
+ .questionContainer {
+    background-color: white;
+    padding-top: 5px;    
+}
+
+.topSection {
+    text-align: center;
+    color: white;
+}
+.myHeader {
+    font-family: 'Bahiana', cursive;
+    font-size: 100px;
+}
+
+.directions {
+    font-size: 20px;
+}
+
+.question {
+    
+    font-size: 2em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    background-color: white;
+    text-align: center;
+}
+
+.choiceList {
+    color:  #696969;
+}
+
+.result {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin: auto;
+    text-align: center;
+}
